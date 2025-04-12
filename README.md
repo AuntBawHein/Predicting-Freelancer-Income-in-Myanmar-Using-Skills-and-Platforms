@@ -52,12 +52,6 @@ Here are the Python tools I used for this project:
 
 ---
 
-Your Step 1 is already very clear, simple, and well-suited for a presentation or report — especially for a general audience like students, teachers, or judges. ✅
-
-However, here's a **slightly polished** version to improve the flow and sound just a bit more natural while keeping everything student-friendly:
-
----
-
 Step 1: Define Scope / Objectives of the Project
 
 In this step, I will explain **what my project is about** and **what I plan to do**.
